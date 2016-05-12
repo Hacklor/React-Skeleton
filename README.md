@@ -1,4 +1,6 @@
 # ReactJS Skeleton
+[ReactJS](https://facebook.github.io/react/index.html)
+
 This contains a minimum amount of setup to get you started with ReactJS, intended to easily start experimenting with ReactJS when you are new to it. It is *not* intended to be a full setup for more extended ReactJS applications.
 
 For more extended setups please see:
